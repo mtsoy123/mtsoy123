@@ -8,7 +8,7 @@ I am an aspiring frontend developer from Belgrade, Serbia. ex-UX/UI designer, I 
 
 👨‍💻 I want to work with experienced colleagues
 
-🔍 Looking for a job as a junior frontend developer
+🔍 Looking for a job as a frontend developer
 
 ## 🖥 Techs
 
